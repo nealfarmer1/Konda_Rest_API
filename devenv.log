@@ -1,0 +1,17 @@
+Detecting main repo language...
+Migration: no config.json detected
+Migration: no .docker/docker-compose.yaml detected
+Could not detect language - using default base image
+ Network konda_rest_api_default  Creating
+ Network konda_rest_api_default  Created
+ Container konda_rest_api-app-1  Creating
+ Container konda_rest_api-app-1  Created
+ Container konda_rest_api-app-1  Starting
+ Container konda_rest_api-app-1  Started
+ Volume "vsCodeServerVolume-konda_rest_api-app"  Creating
+ Volume "vsCodeServerVolume-konda_rest_api-app"  Created
+ Container konda_rest_api-app-1  Recreate
+ Container konda_rest_api-app-1  Recreated
+ Container konda_rest_api-app-1  Starting
+ Container konda_rest_api-app-1  Started
+Docker socket permission set to allow in container docker
